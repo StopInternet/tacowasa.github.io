@@ -1,0 +1,20 @@
+@charset "uft-8";
+/*全体画像の設定*/
+html{
+  background-image: url(../images/tacowasa_head.png);
+}
+
+body{
+ background-color: skyblue;
+ margin: auto;
+ line-height: 1.6;
+ text-align: center;
+ list-style: none;
+ width: 360px;
+}
+
+textarea {
+ resize: none;
+ width:250px;
+ height:200px;
+}
